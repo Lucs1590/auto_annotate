@@ -57,7 +57,7 @@ setup(
 
     python_requires='>=3.8',
     install_requires=[
-        'numpy==1.26.3',
+        'numpy==1.26.4',
         'tensorflow==2.11.1',
         'tqdm==4.66.1',
         'Pillow==10.2.0',
