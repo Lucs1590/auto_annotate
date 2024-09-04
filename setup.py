@@ -59,7 +59,7 @@ setup(
     install_requires=[
         'numpy==1.26.4',
         'tensorflow==2.11.1',
-        'tqdm==4.66.4',
+        'tqdm==4.66.5',
         'Pillow==10.3.0',
         'six==1.16.0'
     ]
